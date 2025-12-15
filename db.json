@@ -1,12 +1,213 @@
 {
-  "popup_guides": [
+  "banner_guides": [
     {
       "name": "2005 DirecTV Guide Popup Template/Recreation",
       "link": "https://www.deviantart.com/kadotcom/art/2005-DirecTV-Guide-Popup-Template-Recreation-1199799221",
       "creator": "kadot",
-      "source": "DeviantArt"
+      "source": "DeviantArt",
+      "type": "banner_guides_directv"
+    },
+    {
+      "name": "2009 Direct TV Guide",
+      "link": "https://cheez-it-burger.neocities.org/Prevview?what=DIRECTTV2009Guide",
+      "creator": "cheez-it-burger",
+      "source": "Website",
+      "type": "banner_guides_directv"
+    },
+    {
+      "name": "DirectTV 2005(?) - 2009 Guide",
+      "link": "https://cheez-it-burger.neocities.org/Prevview?what=Mid2000sDirectTV",
+      "creator": "cheez-it-burger",
+      "source": "Website",
+      "type": "banner_guides_directv"
+    },
+    {
+      "name": "Direct TV 2011 Guide",
+      "link": "https://cheez-it-burger.neocities.org/Prevview?what=DIRECTTV2011GUIDE",
+      "creator": "cheez-it-burger",
+      "source": "Website",
+      "type": "banner_guides_directv"
+    },
+    {
+      "name": "Comcast Guide 2007 Definitive Edition",
+      "link": "https://cheez-it-burger.neocities.org/Prevview?what=Guide2007Comcast",
+      "creator": "cheez-it-burger",
+      "source": "Website",
+      "type": "banner_guides_comcast"
+    },
+    {
+      "name": "Dish Network 2010s Guide Banner",
+      "link": "https://cheez-it-burger.neocities.org/Prevview?what=Dish2010GuideBanner",
+      "creator": "cheez-it-burger",
+      "source": "Website",
+      "type": "banner_guides_dish"
+    },
+    {
+      "name": "Verizon 2005 Guide",
+      "link": "https://cheez-it-burger.neocities.org/Prevview?what=Verizon2005Guide",
+      "creator": "cheez-it-burger",
+      "source": "Website",
+      "type": "banner_guides_verizon"
+    },
+    {
+      "name": "Verizon 2007 Guide",
+      "link": "https://cheez-it-burger.neocities.org/Prevview?what=Verizon2007Guide",
+      "creator": "cheez-it-burger",
+      "source": "Website",
+      "type": "banner_guides_verizon"
     }
   ],
-  "channel_guides": [],
-  "screenbugs": []
+  "program_guides": [],
+  "screenbugs": [
+    {
+      "name": "2006 Nickelodeon Splat Screenbug",
+      "link": "https://cheez-it-burger.neocities.org/Prevview?what=Nick2006Bug",
+      "creator": "cheez-it-burger",
+      "source": "Website",
+      "type": "screenbugs_nick"
+    },
+    {
+      "name": "2006 - 2007 Nickelodeon Splat Screenbug",
+      "link": "https://cheez-it-burger.neocities.org/Prevview?what=2007SPLAT",
+      "creator": "cheez-it-burger",
+      "source": "Website",
+      "type": "screenbugs_nick"
+    },
+    {
+      "name": "2010 Nickelodeon Screenbug (SD)",
+      "link": "https://cheez-it-burger.neocities.org/Prevview?what=2010SCREENBUG",
+      "creator": "cheez-it-burger",
+      "source": "Website",
+      "type": "screenbugs_nick"
+    },
+    {
+      "name": "2009 Nickelodeon Screenbug (SD)",
+      "link": "https://cheez-it-burger.neocities.org/Prevview?what=LATE2009",
+      "creator": "cheez-it-burger",
+      "source": "Website",
+      "type": "screenbugs_nick"
+    },
+    {
+      "name": "2009 Nickelodeon Screenbug (HD)",
+      "link": "https://cheez-it-burger.neocities.org/Prevview?what=2009HDbugnick",
+      "creator": "cheez-it-burger",
+      "source": "Website",
+      "type": "screenbugs_nick"
+    },
+    {
+      "name": "Nick@Nite 2009 Screenbug (SD)",
+      "link": "https://cheez-it-burger.neocities.org/Prevview?what=NICKATNITESD2009",
+      "creator": "cheez-it-burger",
+      "source": "Website",
+      "type": "screenbugs_nicknite"
+    },
+    {
+      "name": "Nick@Nite 2009 Screenbug (HD)",
+      "link": "https://cheez-it-burger.neocities.org/Prevview?what=NICKATNITEHD2009",
+      "creator": "cheez-it-burger",
+      "source": "Website",
+      "type": "screenbugs_nicknite"
+    },
+    {
+      "name": "Nickelodeon 2008 HD Screenbug",
+      "link": "https://cheez-it-burger.neocities.org/Prevview?what=NICKHD2008",
+      "creator": "cheez-it-burger",
+      "source": "Website",
+      "type": "screenbugs_nick"
+    },
+    {
+      "name": "Nickelodeon 2005 Screenbug",
+      "link": "https://cheez-it-burger.neocities.org/Prevview?what=NICKCOM2005",
+      "creator": "cheez-it-burger",
+      "source": "Website",
+      "type": "screenbugs_nick"
+    },
+    {
+      "name": "Nickelodeon's SpongeBob SpongeBash Screenbug (2009)",
+      "link": "https://cheez-it-burger.neocities.org/Prevview?what=SBSH2009",
+      "creator": "cheez-it-burger",
+      "source": "Website",
+      "type": "screenbugs_nickspecial"
+    },
+    {
+      "name": "Nickelodeon HD 2010 Screenbug",
+      "link": "https://cheez-it-burger.neocities.org/Prevview?what=nickhd2010",
+      "creator": "cheez-it-burger",
+      "source": "Website",
+      "type": "screenbugs_nick"
+    },
+    {
+      "name": "Nickelodeon Europe Screenbug 2011",
+      "link": "https://cheez-it-burger.neocities.org/Prevview?what=nickeurope2011",
+      "creator": "cheez-it-burger",
+      "source": "Website",
+      "type": "screenbugs_nickeu"
+    },
+    {
+      "name": "Nickelodeon 2014 Halloween Screenbug",
+      "link": "https://cheez-it-burger.neocities.org/Prevview?what=halloween2014Nick",
+      "creator": "cheez-it-burger",
+      "source": "Website",
+      "type": "screenbugs_nickspecial"
+    },
+    {
+      "name": "Nickelodeon 2008 Splat Screenbug",
+      "link": "https://cheez-it-burger.neocities.org/Prevview?what=nicksplat2008",
+      "creator": "cheez-it-burger",
+      "source": "Website",
+      "type": "screenbugs_nick"
+    },
+    {
+      "name": "Adult Swim Screenbug Template (2003-2013 - SD)",
+      "link": "https://www.deviantart.com/paulhobby19/art/Adult-Swim-Screenbug-Template-2003-2013-755541578",
+      "creator": "paulhobby19",
+      "source": "DeviantArt",
+      "type": "screenbugs_adultswim"
+    },
+    {
+      "name": "CBeebies Screen Bug Template (2017-Present)",
+      "link": "https://www.deviantart.com/rabbitfilmmaker/art/CBeebies-Screen-Bug-Template-2017-Present-788129247",
+      "creator": "RabbitFilmMaker",
+      "source": "DeviantArt",
+      "type": "screenbugs_cbeebies"
+    },
+    {
+      "name": "G4 Select - Screen Bug [2022]",
+      "link": "https://www.deviantart.com/scottpilgrimtor20131/art/G4-Select-Screen-Bug-2022-970859116",
+      "creator": "ScottPilgrimTor20131",
+      "source": "DeviantArt",
+      "type": "screenbugs_g4"
+    }
+  ],
+  "on_screen_elements": [],
+  "dvr": [
+    {
+      "name": "2009 Direct TV DVR",
+      "link": "https://cheez-it-burger.neocities.org/Prevview?what=DIRECTTV2009DVR",
+      "creator": "cheez-it-burger",
+      "source": "Website",
+      "type": "dvr_directv"
+    },
+    {
+      "name": "Direct TV 2011 DVR Template",
+      "link": "https://cheez-it-burger.neocities.org/Prevview?what=DirectTV2011DVR",
+      "creator": "cheez-it-burger",
+      "source": "Website",
+      "type": "dvr_directv"
+    },
+    {
+      "name": "Comcast DVR 2007 Banner",
+      "link": "https://cheez-it-burger.neocities.org/Prevview?what=COMCASTDVR2007",
+      "creator": "cheez-it-burger",
+      "source": "Website",
+      "type": "dvr_comcast"
+    },
+    {
+      "name": "Dish Network 2009 DVR Template",
+      "link": "https://cheez-it-burger.neocities.org/Prevview?what=COMCASTDVR2007",
+      "creator": "cheez-it-burger",
+      "source": "Website",
+      "type": "dvr_dish"
+    }
+  ]
 }
